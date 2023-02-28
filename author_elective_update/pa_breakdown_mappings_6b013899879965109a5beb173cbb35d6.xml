@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_breakdown_mappings">
+    <pa_breakdown_mappings action="DELETE">
+        <breakdown display_value="Requested for">2b013899879965109a5beb173cbb35d4</breakdown>
+        <facts_table>x_58872_needit_needit</facts_table>
+        <field>u_requested_for</field>
+        <script/>
+        <scripted>false</scripted>
+        <sys_class_name>pa_breakdown_mappings</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-27 16:10:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6b013899879965109a5beb173cbb35d6</sys_id>
+        <sys_name>2b013899879965109a5beb173cbb35d4</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_breakdown_mappings_6b013899879965109a5beb173cbb35d6</sys_update_name>
+    </pa_breakdown_mappings>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b6ee7589dbc1370452cec597059619e4</instance_id>
+        <instance_name>dev83292</instance_name>
+        <name>pa_breakdown_mappings_6b013899879965109a5beb173cbb35d6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_breakdown_mappings">
+    <pa_breakdown_mappings action="INSERT_OR_UPDATE">
+        <breakdown display_value="Requested for">2b013899879965109a5beb173cbb35d4</breakdown>
+        <facts_table>x_58872_needit_needit</facts_table>
+        <field>u_requested_for</field>
+        <script/>
+        <scripted>false</scripted>
+        <sys_class_name>pa_breakdown_mappings</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-27 16:10:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6b013899879965109a5beb173cbb35d6</sys_id>
+        <sys_name>2b013899879965109a5beb173cbb35d4</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_breakdown_mappings_6b013899879965109a5beb173cbb35d6</sys_update_name>
+    </pa_breakdown_mappings>
+</record_update>]]></payload>
+        <payload_hash>-853613899</payload_hash>
+        <record_name>2b013899879965109a5beb173cbb35d4</record_name>
+        <reverted_from/>
+        <source>ce327c1d879965109a5beb173cbb358e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-27 16:15:44</sys_created_on>
+        <sys_id>7a32bc1d879965109a5beb173cbb3526</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18693a895540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-27 16:15:44</sys_updated_on>
+        <type>Breakdown Mapping</type>
+        <update_guid>b632bc1dad996510a79c78f62be93c26</update_guid>
+        <update_guid_history>b632bc1dad996510a79c78f62be93c26:0,26d1341d569965100128b0c8bbe37794:-51757454,2b013899a39965103e1afd3acae0ddd7:-1431955737</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">d3d93125879d21109a5beb173cbb3570</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-28 16:07:11</sys_created_on>
+        <sys_db_object display_value="" name="pa_breakdown_mappings">pa_breakdown_mappings</sys_db_object>
+        <sys_id>60251656d9724317b081ca30b1c9cbf1</sys_id>
+        <sys_metadata>6b013899879965109a5beb173cbb35d6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2b013899879965109a5beb173cbb35d4</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_breakdown_mappings_6b013899879965109a5beb173cbb35d6</sys_update_name>
+        <sys_update_version display_value="pa_breakdown_mappings_6b013899879965109a5beb173cbb35d6">7a32bc1d879965109a5beb173cbb3526</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-28 16:07:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

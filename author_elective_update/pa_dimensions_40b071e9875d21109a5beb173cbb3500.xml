@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dimensions">
+    <pa_dimensions action="DELETE">
+        <active>true</active>
+        <conditions table="pa_manual_breakdowns">breakdown=85a031e9875d21109a5beb173cbb3584<item endquery="false" field="breakdown" goto="false" newquery="false" operator="=" or="false" value="85a031e9875d21109a5beb173cbb3584"/>
+        </conditions>
+        <description/>
+        <empty_value/>
+        <facts_table>pa_manual_breakdowns</facts_table>
+        <field>sys_id</field>
+        <manual_breakdown>85a031e9875d21109a5beb173cbb3584</manual_breakdown>
+        <name>Test</name>
+        <security_type>1</security_type>
+        <sys_class_name>pa_dimensions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-28 15:27:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>40b071e9875d21109a5beb173cbb3500</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_dimensions_40b071e9875d21109a5beb173cbb3500</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-28 15:27:05</sys_updated_on>
+    </pa_dimensions>
+    <sys_translated_text action="DELETE" query="documentkey=40b071e9875d21109a5beb173cbb3500"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b6ee7589dbc1370452cec597059619e4</instance_id>
+        <instance_name>dev83292</instance_name>
+        <name>pa_dimensions_40b071e9875d21109a5beb173cbb3500</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dimensions"><pa_dimensions action="INSERT_OR_UPDATE"><active>true</active><conditions table="pa_manual_breakdowns">breakdown=85a031e9875d21109a5beb173cbb3584<item endquery="false" field="breakdown" goto="false" newquery="false" operator="=" or="false" value="85a031e9875d21109a5beb173cbb3584"/></conditions><description/><empty_value/><facts_table>pa_manual_breakdowns</facts_table><field>sys_id</field><manual_breakdown>85a031e9875d21109a5beb173cbb3584</manual_breakdown><name>Test</name><security_type>1</security_type><sys_class_name>pa_dimensions</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-28 15:27:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>40b071e9875d21109a5beb173cbb3500</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_dimensions_40b071e9875d21109a5beb173cbb3500</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-28 15:27:05</sys_updated_on></pa_dimensions><sys_translated_text action="delete_multiple" query="documentkey=40b071e9875d21109a5beb173cbb3500"/></record_update>]]></payload>
+        <payload_hash>-738074515</payload_hash>
+        <record_name>Test</record_name>
+        <reverted_from/>
+        <source>bdd24adc8755a1109a5beb173cbb35fb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-28 15:27:05</sys_created_on>
+        <sys_id>00b071e9875d21109a5beb173cbb3502</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18698a268e80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-28 15:27:05</sys_updated_on>
+        <type>Breakdown Source</type>
+        <update_guid>48b071e9045d21109845aa0e93c16701</update_guid>
+        <update_guid_history>48b071e9045d21109845aa0e93c16701:-738074515</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Test">e612b52d875d21109a5beb173cbb356f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-28 15:33:16</sys_created_on>
+        <sys_db_object display_value="" name="pa_dimensions">pa_dimensions</sys_db_object>
+        <sys_id>a190f468426345d281438c62b0bf9e24</sys_id>
+        <sys_metadata>40b071e9875d21109a5beb173cbb3500</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_dimensions_40b071e9875d21109a5beb173cbb3500</sys_update_name>
+        <sys_update_version display_value="pa_dimensions_40b071e9875d21109a5beb173cbb3500">00b071e9875d21109a5beb173cbb3502</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-28 15:33:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
